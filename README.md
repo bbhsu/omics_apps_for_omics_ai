@@ -1,3 +1,3 @@
-# Genome Apps for Genome AI
+# Omics Apps for Omics AI
 
-Genome Apps :snowflake: for Genome AI :no_mouth:
+Omics Apps :snowflake: for Omics AI :no_mouth:
